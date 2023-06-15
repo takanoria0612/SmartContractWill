@@ -24,7 +24,7 @@
 * **自動実行**：所有者が亡くなったと宣言したとき、遺産は自動的に分配されます。
 * **信頼のデセンタライゼーション**：遺産の分配は、中央の第三者機関を必要とせずに、自動的に行われます。
 
-![Smart Contract Flow](/Users/hirakitakanori/BlockChainProject/SolidityProject/SmartContractProject/images/will.png)
+![Smart Contract Flow](https://github.com/takanoria0612/SmartContractWill/blob/main/images/will.png)
 
 ## まとめ
 
